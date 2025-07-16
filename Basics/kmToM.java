@@ -9,7 +9,5 @@ float   number= sc.nextFloat();
 float result = number * 0.621f;
 System.out.println("The miles are: ");
 System.out.println(result);
-
     }
-    
 }
