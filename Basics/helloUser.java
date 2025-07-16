@@ -11,8 +11,5 @@ String name = sc.nextLine();
 System.out.println("Hello"); 
 System.out.println(name);
 System.out.println("how are you");
-
     }
-
-    
 }
