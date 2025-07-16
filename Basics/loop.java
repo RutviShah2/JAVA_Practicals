@@ -5,5 +5,4 @@ public class loop {
             System.out.println(igit );
         }
     }
-    
 }
